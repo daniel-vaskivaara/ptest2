@@ -1,0 +1,8 @@
+site_name: ptest2
+site_description: python deploy test for Tanuu (see Egypt)
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
